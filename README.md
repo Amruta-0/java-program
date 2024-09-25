@@ -1,2 +1,3 @@
 TY BBA(CA)
-program NeonNumber
+program Natural Number
+1-10 number
