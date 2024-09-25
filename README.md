@@ -1,2 +1,2 @@
 TY BBA(CA)
-program Tech number
+program KrithNumber
