@@ -1,2 +1,2 @@
 TY BBA(CA)
-program Recursion number
+program Tech number
