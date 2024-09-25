@@ -1,2 +1,2 @@
-TY BBA(CA) practicals
-practical1-BuzzNumber
+TY BBA(CA)
+program SpyNumber
